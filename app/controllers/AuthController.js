@@ -65,16 +65,4 @@ module.exports = {
         });
     }
 
-
-    // singUp(res, req) {
-
-    //     async (req, res) => {
-    //         let resa = await User.create({ name: req.body.name, email: req.body.email, password: req.body.password })
-    //         res.json({
-    //             user: resa,
-    //         });
-    //     }
-    // }
-
-
 }
